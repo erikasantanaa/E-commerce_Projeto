@@ -1,0 +1,62 @@
+/* cores para usar{
+    color: # #E69318 #ffffff #313B8C
+} */
+
+
+/* Reset Global */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: inherit;
+}
+
+body {
+    background: #ffffff;
+}
+
+.color-padrao {
+    color: #313B8C;
+}
+
+/*NAVBAR*/
+.nav-color {
+    background: #ffffff;
+}
+
+/* CAROUSEL*/
+.pc {
+    object-fit: cover;
+    position: 0 100%;
+    height: 500px;
+}
+
+/* BANER */
+
+/* .baner {
+    text-align: center;
+    background: #E69318;
+    color: #ffffff;
+    margin: 30px;
+     padding: 5px;
+}  */
+
+
+/*CARDS*/
+.cards-css {
+    border-color: #E69318;
+    max-width: 20rem;
+}
+
+.marca{
+   margin-top: 10px;
+   height: 300px;
+}
+
+.cards-position{
+    object-fit: cover;
+
+    height: 270px;
+}
